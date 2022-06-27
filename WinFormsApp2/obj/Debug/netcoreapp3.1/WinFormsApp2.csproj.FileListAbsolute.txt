@@ -1,0 +1,47 @@
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\FireSharp.dll
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.dll
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\System.Net.Http.Extensions.dll
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\System.Net.Http.Primitives.dll
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CopyComplete
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\chavi\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\FireSharp.dll
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\Microsoft.Threading.Tasks.dll
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\System.Net.Http.Extensions.dll
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\System.Net.Http.Primitives.dll
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\ADMIN\Desktop\seguridad informatica\final\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
